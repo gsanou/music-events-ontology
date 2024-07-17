@@ -1,0 +1,4 @@
+pandas==1.5.3
+rdflib==5.0.0
+rdflib==6.1.1
+streamlit==1.28.2
