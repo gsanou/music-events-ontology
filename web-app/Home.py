@@ -1,6 +1,6 @@
 from init import *
 
-st.markdown(hide_st_style, unsafe_allow_html=True)
+#st.markdown(hide_st_style, unsafe_allow_html=True)
 
 st.title('🥁 Music & Events 🎸')
 st.markdown('''---''')
